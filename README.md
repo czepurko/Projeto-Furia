@@ -30,9 +30,9 @@ Simula um chat de torcida, exibe o calendário de partidas e mostra o ranking do
 
 ## 📸 Prévia
 
-(Adicione aqui um print do site ou um GIF)
-
 ---
+
+<img src="https://github.com/user-attachments/assets/4c4ce15d-20f4-4f38-ba4f-b784182998f7" width="400">
 
 ## 📽 Demonstração em Vídeo
 
