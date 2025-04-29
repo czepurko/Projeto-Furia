@@ -38,7 +38,7 @@ Simula um chat de torcida, exibe o calendário de partidas e mostra o ranking do
 
 ## 📽 Demonstração em Vídeo
 
-([Coloque o link do vídeo de demonstração aqui](https://youtu.be/TxIJBeLby2w))
+[Demostração do projeto em vídeo](https://youtu.be/TxIJBeLby2w)
 
 ---
 
